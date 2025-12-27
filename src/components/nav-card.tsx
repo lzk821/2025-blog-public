@@ -46,13 +46,13 @@ const list = [
 	{
 		icon: ShareOutlineSVG,
 		iconActive: ShareFilledSVG,
-		label: '推荐分享',
+		label: '网站导航',
 		href: '/share'
 	},
 	{
 		icon: WebsiteOutlineSVG,
 		iconActive: WebsiteFilledSVG,
-		label: '优秀博客',
+		label: '其他',
 		href: '/bloggers'
 	}
 ]
