@@ -47,7 +47,7 @@ export default function GridView({ bloggers, isEditMode = false, onUpdate, onDel
 
 			{filteredBloggers.length === 0 && (
 				<div className='mt-12 text-center text-gray-500'>
-					<p>没有找到相关博主</p>
+					<p>还没有内容...</p>
 				</div>
 			)}
 		</div>
